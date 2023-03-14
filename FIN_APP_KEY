@@ -1,3 +1,4 @@
-github_pubKey_identifier : bcf2e56aa3227ede2db8df989b650679
-github_pubKey_signature : 123Test123
-public_key : pzQSvNR0jmgY
+github_pubKey_identifier=bcf2e56aa3227ede2db8df989b650679
+github_pubKey_signature=123Test123
+public_key=pzQSvNR0jmgY
+Finicity-App-Key=bcf2e56aa3227ede2db8df989b650679
